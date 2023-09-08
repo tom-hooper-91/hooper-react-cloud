@@ -1,0 +1,2 @@
+C:\Users\tomh\workspace\hooper-react-cloud\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\tomh\workspace\hooper-react-cloud\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
